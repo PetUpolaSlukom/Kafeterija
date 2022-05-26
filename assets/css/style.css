@@ -1,3 +1,13 @@
+::-moz-selection {
+  color: #53b563;
+  background: #ddd;
+}
+
+::selection {
+  color: #53b563;
+  background: #ddd;
+}
+
 * {
   margin: 0px;
   padding: 0px;
@@ -23,7 +33,7 @@ a.text-secondary:hover {
 }
 
 .p-50-0 {
-  padding: 50px 0px;
+  padding: 30px 0px;
 }
 
 nav {
@@ -75,15 +85,6 @@ nav #korpaLink:hover {
   height: 50px;
 }
 
-.naslovna {
-  background-image: url(../img/naslovna1.jpg);
-  height: 100%;
-  padding: 150px 0px 150px 50px;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
 .bg-gray {
   background-color: rgba(255, 255, 255, 0.9);
 }
@@ -91,5 +92,82 @@ nav #korpaLink:hover {
 .dot {
   color: #53b563;
   margin-bottom: .75rem;
+}
+
+.td-u {
+  text-decoration: underline !important;
+}
+
+.border-bottom-green {
+  border: none;
+  border-bottom: 1px solid #53b563;
+  border-color: #53b563;
+}
+
+.naslovna {
+  height: 100%;
+  padding: 100px 0px 100px 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.bg-kontakt {
+  background-image: url(../img/naslovna_kontakt.jpg);
+}
+
+.bg-autor {
+  background-image: url(../img/naslovna_autor.jpg);
+}
+
+.bg-proizvodi {
+  background-image: url(../img/naslovna_proizvodi.jpg);
+}
+
+.bg-pocetna {
+  background-image: url(../img/naslovna_pocetna.jpg);
+}
+
+.bg-logovanje {
+  background-image: url(../img/naslovna_logovanje.jpg);
+}
+
+.bg-proizvod {
+  background-image: url(../img/naslovna_proizvod.jpg);
+}
+
+#mreze {
+  font-size: 30px;
+}
+
+#knjige > div, #pretraga {
+  border: none;
+}
+
+#sort {
+  height: 50px;
+}
+
+.btn-act {
+  border-color: #53b563;
+  background-color: #53b563;
+}
+
+.btn-act span {
+  color: #fff;
+}
+
+.btn-deact {
+  border-color: #53b563;
+  background-color: #fff;
+}
+
+.btn-deact span {
+  color: #53b563;
+}
+
+.page-link.activePagination {
+  background-color: #53b563 !important;
+  color: #fff !important;
 }
 /*# sourceMappingURL=style.css.map */

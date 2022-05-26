@@ -10,9 +10,8 @@
         crossorigin="anonymous"/>
     <link rel="stylesheet" type="text/css" href="assets/css/style.css"/>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css">
-    <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat"> -->
-    <!-- <meta name="keywords" content="knjizara, booka, knjige, online, prodaja"/> -->
-	<!-- <meta name="description" content="Dobrodošli u Booka svet! Najbolja ponuda knjiga i sve od savremene književnosti na jednom mestu. Stalni popust za sve online porudžbine. Jedan klik vas deli od najboljih Booka knjiga!"> -->
+    <meta name="keywords" content="kafeterija, prodaja, shop, online, esspreso"/>
+	<meta name="description" content="Dobrodošli u Kafeterijin svet! Najbolja ponuda espreso kafa iz svih krajeva sveta na jednom mestu. Stalni popust za sve online porudžbine. Jedan klik Vas deli od najbolje kafe!">
 
 </head>
 <body>

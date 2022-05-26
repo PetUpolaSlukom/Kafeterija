@@ -1,0 +1,176 @@
+Access time: 2021-08-24 13:44:27
+Admin - Djordje
+IP address: 127.0.0.1
+Url: /sajt_pphp/models/products/get_focus_products.php
+Page: no page
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'test' in 'field list'
+_______________________________________
+
+Access time: 2021-08-24 13:49:44
+Admin - Djordje
+IP address: 127.0.0.1
+Url: /sajt_pphp/models/products/get_focus_products.php
+Page: no page
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'test' in 'field list'
+_______________________________________
+
+Access time: 2021-08-26 16:55:58
+User - Sara
+IP address: 127.0.0.1
+Url: /sajt_pphp/models/cart/add_to_cart.php
+Page: no page
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_pakovanje' cannot be null
+_______________________________________
+
+Access time: 2021-08-26 21:38:52
+User - Sara
+IP address: 127.0.0.1
+Url: /sajt_pphp/models/cart/load_cart.php
+Page: no page
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?' at line 1
+_______________________________________
+
+Access time: 2021-08-26 22:52:40
+User - Sara
+IP address: 127.0.0.1
+Url: /sajt_pphp/models/cart/add_to_cart.php
+Page: no page
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_pakovanje' cannot be null
+_______________________________________
+
+Access time: 2021-08-26 22:54:58
+User - Sara
+IP address: 127.0.0.1
+Url: /sajt_pphp/models/cart/add_to_cart.php
+Page: no page
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_pakovanje' cannot be null
+_______________________________________
+
+Access time: 2021-08-26 22:57:03
+User - Sara
+IP address: 127.0.0.1
+Url: /sajt_pphp/models/cart/add_to_cart.php
+Page: no page
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_pakovanje' cannot be null
+_______________________________________
+
+Access time: 2021-08-26 22:57:50
+User - Sara
+IP address: 127.0.0.1
+Url: /sajt_pphp/models/cart/add_to_cart.php
+Page: no page
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_pakovanje' cannot be null
+_______________________________________
+
+Access time: 2021-08-26 22:57:58
+User - Sara
+IP address: 127.0.0.1
+Url: /sajt_pphp/models/cart/add_to_cart.php
+Page: no page
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_pakovanje' cannot be null
+_______________________________________
+
+Access time: 2021-08-26 23:00:11
+User - Sara
+IP address: 127.0.0.1
+Url: /sajt_pphp/models/cart/add_to_cart.php
+Page: no page
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_pakovanje' cannot be null
+_______________________________________
+
+Access time: 2021-08-26 23:02:27
+User - Sara
+IP address: 127.0.0.1
+Url: /sajt_pphp/models/cart/add_to_cart.php
+Page: no page
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_pakovanje' cannot be null
+_______________________________________
+
+Access time: 2021-08-26 23:02:38
+User - Sara
+IP address: 127.0.0.1
+Url: /sajt_pphp/models/cart/add_to_cart.php
+Page: no page
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_pakovanje' cannot be null
+_______________________________________
+
+Access time: 2021-08-26 23:03:09
+User - Sara
+IP address: 127.0.0.1
+Url: /sajt_pphp/models/cart/add_to_cart.php
+Page: no page
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_pakovanje' cannot be null
+_______________________________________
+
+Access time: 2021-08-26 23:03:41
+User - Sara
+IP address: 127.0.0.1
+Url: /sajt_pphp/models/cart/add_to_cart.php
+Page: no page
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_pakovanje' cannot be null
+_______________________________________
+
+Access time: 2021-08-27 17:52:06
+User - Sara
+IP address: 127.0.0.1
+Url: /sajt_pphp/models/cart/order.php
+Page: no page
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'id_korisnik' cannot be null
+_______________________________________
+
+2021-08-28 22:26:36
+Djordje
+127.0.0.1
+/sajt_pphp/models/products/get_products.php
+no page
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY naziv ascAND LIMIT 0, 6' at line 1
+_______________________________________
+
+2021-08-28 22:26:45
+Djordje
+127.0.0.1
+/sajt_pphp/models/products/get_products.php
+no page
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY naziv ascAND LIMIT 0, 6' at line 1
+_______________________________________
+
+2021-08-28 22:27:10
+Djordje
+127.0.0.1
+/sajt_pphp/models/products/get_products.php
+no page
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY naziv ascAND LIMIT 0, 6' at line 1
+_______________________________________
+
+2021-08-28 22:27:49
+Djordje
+127.0.0.1
+/sajt_pphp/models/products/get_products.php
+no page
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY naziv asc AND LIMIT 0, 6' at line 1
+_______________________________________
+
+2021-08-28 22:28:35
+Djordje
+127.0.0.1
+/sajt_pphp/models/products/get_products.php
+no page
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY naziv asc LIMIT 0, 6' at line 1
+_______________________________________
+
+2021-08-28 22:29:03
+Djordje
+127.0.0.1
+/sajt_pphp/models/products/get_products.php
+no page
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY naziv asc LIMIT 0, 6' at line 1
+_______________________________________
+
+2021-08-29 17:16:06
+Djordje
+127.0.0.1
+/sajt_pphp/index.php
+proizvod
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.naziv, pr.opis, pa.kolicina, pa.merna_jedinica, pa.cena, pa.slika FROM proiz...' at line 1
+_______________________________________
+

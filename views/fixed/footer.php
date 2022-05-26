@@ -1,11 +1,12 @@
-<div class="col-9 mx-auto d-flex flex-wrap justify-content-around">
+<div class="col-9 mx-auto d-flex flex-wrap justify-content-around border-top mt-5">
     <div class="col-sm-3 pt-5  text-center">
         <h3 calss="text-white">MENI</h3>
         <ul id="footer-meni-ul" class="navbarMenu-ul navbar-nav container d-inline">
             
-            <li class="nav-item"><a href="proizvodi.php" class="nav-link text-secondary">Proizvodi</a></li>
-            <li class="nav-item"><a href="kontakt.php" class="nav-link text-secondary">Kontakt</a></li>
-            <li class="nav-item"><a href="autor.php" class="nav-link text-secondary">Autor</a></li> 
+            <li class="nav-item"><a href="index.php?page=pocetna" class="nav-link text-secondary">Pocetna</a></li>
+            <li class="nav-item"><a href="index.php?page=proizvodi" class="nav-link text-secondary">Proizvodi</a></li>
+            <li class="nav-item"><a href="index.php?page=kontakt" class="nav-link text-secondary">Kontakt</a></li>
+            <li class="nav-item"><a href="index.php?page=autor" class="nav-link text-secondary">Autor</a></li> 
         </ul> 
     </div>
     <div class="col-sm-3 pt-5  text-center">
@@ -14,11 +15,10 @@
             
             <li class="nav-item"><a href="dokumentacija.pdf" class="nav-link text-secondary">Dokumentacija</a></li>
             <li class="nav-item"><a href="assets/js/main.js" class="nav-link text-secondary">JavaScript</a></li>
-            <li class="nav-item"><a href="sitemap.xml" class="nav-link text-secondary">Sitemap</a></li> 
         </ul> 
     </div>    
     <div class="col-sm-3 col-10 pt-5 text-center">
-        <a href="index.php"><img class="img-fluid pt-4 pb-4" src="assets/img/kafeterija_logo.png" alt="Kafeterija logo"></a>  
+        <a href="index.php?page=pocetna"><img class="img-fluid pt-4 pb-4" src="assets/img/kafeterija_logo.png" alt="Kafeterija logo"></a>  
         <p class="cena">Đorđe Minić 135 <mark>/</mark> 19</p>
     </div>
 </div>
